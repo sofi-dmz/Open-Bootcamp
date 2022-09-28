@@ -1,0 +1,9 @@
+button:hover{
+    background-color: green;
+    color: white;
+    content: "Hecho!";
+}
+
+button::before{
+    content: "¡Hecho!"
+}
