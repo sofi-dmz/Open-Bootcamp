@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.btn-modern{
+    border: none;
+    border-radius: 50px;
+    outline: none;
+    padding: 20px;
+    font-family: 'Inter Tight', sans-serif;
+}
+
+
+.btn-modern:hover{
+    transform: translateY(-5px);
+    box-shadow: 2px 2px 2px 1px rgba(126, 126, 126, 0.2);
+    background-color: rgb(255, 145, 0);
+    color: whitesmoke;
+
+    transition: 0.4s;   
+}
