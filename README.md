@@ -1,1 +1,1 @@
-Este repositorio fue creado para ir subiendo los ejercicios de la hoja de ruta de OpenBootcamp, enfocada en el Front-End.
+Este repositorio fue creado para subir los ejercicios del curso de desarrollo front-end de OpenBootcamp.
